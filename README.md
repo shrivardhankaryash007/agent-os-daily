@@ -2,10 +2,11 @@
 
 One aggregate-only entry per active day: counts of AI-assisted engineering sessions, turns, tokens and tool calls. No project names, prompts or paths.
 
-Active days recorded: 19
+Active days recorded: 20
 
 | Day |
 |---|
+| [2026-11-17](entries/2026-11-17.md) |
 | [2026-11-16](entries/2026-11-16.md) |
 | [2026-11-15](entries/2026-11-15.md) |
 | [2026-11-14](entries/2026-11-14.md) |
